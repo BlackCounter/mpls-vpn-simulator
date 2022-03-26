@@ -23,8 +23,7 @@ Images: XRv 6.1.3, CSR1000v 17.1.1, IOL L3 15.7(3)M2, IOL L2 15.2
 ☆ Lab Screenshots: https://lnkd.in/dcjqYsM
 
 * MPLS VPN Labs, Created by Saeed Bahmanabadi(blackcounter)
-Lab file URL:
-  https://drive.google.com/open?id=1OMsHLT3YrZSjk-uAQjpqcA9Uh319tDpE
+In my github.
 ! You can only import it into EVE-NG Pro (not the Community edition)  
 
 You can also find configuration files on my GitHub page:
